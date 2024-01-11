@@ -1,0 +1,8 @@
+{
+	"item.slimeology.slime_core" : "Slime Core",
+	"item.slimeology.slimechanism" : "Slimechanism",
+
+	"creativetab.slimeology_tab": "Create : Slimeology",
+
+	"entity.slimeology.smart_slime" : "Smart Slime"
+}
